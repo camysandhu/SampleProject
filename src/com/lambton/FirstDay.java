@@ -4,10 +4,19 @@ public class FirstDay
 {
     public static void main(String[] args)
     {
-         //System.out.println("HarmanpreetSingh");
+         System.out.println("Welcome To java");
 
+
+         //Variable declaration
          int a=10,b=20,c;
+
+
+         //value assignmnet
+
+
          c=a+b;
+
+
          System.out.println("SUM = " +c);
 
     }
