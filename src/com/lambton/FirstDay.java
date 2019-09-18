@@ -9,14 +9,7 @@ public class FirstDay
 
          //Variable declaration
          int a=10,b=20,c;
-
-
-         //value assignmnet
-
-
          c=a+b;
-
-
          System.out.println("SUM = " +c);
 
     }
